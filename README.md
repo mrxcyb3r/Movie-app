@@ -2,9 +2,6 @@
 
 A sleek, responsive movie exploration web application built with React and styled using React-Bootstrap. This project features an interactive movie search engine powered by the OMDb API and includes a fully custom, persistent Light/Dark theme engine.
 
-## 🚀 Live Demo
-
-[👉 Click here to view the Live Demo 👈](YOUR_LIVE_DEMO_LINK_HERE)
 
 
 ---
