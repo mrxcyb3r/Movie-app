@@ -1,0 +1,13 @@
+[data-theme="light"] {
+  --bg: #ffffff;
+  --text: #333333;
+  --card-bg: #f8f9fa;
+  --border: #dee2e6;
+}
+
+[data-theme="dark"] {
+  --bg: #121212;
+  --text: #e0e0e0;
+  --card-bg: #1e1e1e;
+  --border: #333333;
+}
